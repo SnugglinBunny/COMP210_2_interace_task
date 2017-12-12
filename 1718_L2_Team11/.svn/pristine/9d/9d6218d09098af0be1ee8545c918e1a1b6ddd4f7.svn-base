@@ -1,0 +1,6 @@
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=430056E7487C932FE9B34AA591C910C3
+ProjectName=Gwydion
+
+[StartupActions]
+bAddPacks=True

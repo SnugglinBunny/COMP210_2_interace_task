@@ -10,7 +10,19 @@ For my market research I have attempted to look into games that allow one person
 
 ## Design
 
-I will be using my main BA game with the current player layout with a slight change, I will make it so that if you select to play with two players it will check that a vr headset is available. After this check the second player will be able to play alongside them in virtual reality, flying around and moving objects like a bird, clearly I will have to place limits on what the bird can pickup for immersions sake at least.
+I will be using my main BA game with the current player layout with a slight change, I will make it so that if you select to play with two players it will check that a vr headset is available. After this check the second player will be able to play alongside them in virtual reality, flying around and moving objects like a bird, clearly I will have to place limits on what the bird can pickup for immersions sake at least. This idea came out of player testing our main game people wanted stuff to be more clear but we thought it would make the game to easy so we compromised.
+
+## Instructions
+
+The game can be played alone as just the standard platform puzzle game, but connect a VR Headset and a second player will be able to fly above and attempt to find secrets for the player.  The headset takes the average position of both controllers and propels you in the opposite direction. For example, if you hold both you hands behind you then you will go forwards similar to how you would imagine a bird controls itself. If you want to stop still you have to hold your hands out by your sides, slightly forwards seems to work best.
+
+## User Stories
+
+As a user I want to be able to fly around the world without feeling sick
+As a user I want to feel immersed within the games world and in the role of a bird
+As a user in a two player game I want to be able to interact with eachother one some level
+
+Our SVN Repo: https://trperforce.fal.ac.uk/svn/1718_L2_Team11
 
 ## Helpful Sources
 [VR Emulation](https://developers.immerseum.io/)
