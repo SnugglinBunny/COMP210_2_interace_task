@@ -19,7 +19,9 @@ The game can be played alone as just the standard platform puzzle game, but conn
 ## User Stories
 
 As a user I want to be able to fly around the world without feeling sick
+
 As a user I want to feel immersed within the games world and in the role of a bird
+
 As a user in a two player game I want to be able to interact with eachother one some level
 
 Our SVN Repo: https://trperforce.fal.ac.uk/svn/1718_L2_Team11
