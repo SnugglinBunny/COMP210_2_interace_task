@@ -10,7 +10,7 @@ For my market research I have attempted to look into games that allow one person
 
 ## Design
 
-I will be using my main BA game with the current player layout with a slight change, I will make it so that if you select to play with two players it will check that a vr headset is available. After this check the second player will be able to play alongside them in virtual reality, flying around and moving objects like a bird, clearly I will have to place limits on what the bird can pickup for immersions sake at least. This idea came out of player testing our main game people wanted stuff to be more clear but we thought it would make the game to easy so we compromised.
+I will be using my main BA game with a slight change, I will make it so that if you select to play with two players it will check that a vr headset is available. After this check the second player will be able to play alongside them in virtual reality, flying around and moving objects like a bird, clearly I will have to place limits on what the bird can pickup for immersions sake at least. This idea came out of player testing our main game people wanted stuff to be more clear but we thought it would make the game to easy so we compromised.
 
 ## Instructions
 
